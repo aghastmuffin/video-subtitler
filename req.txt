@@ -1,3 +1,2 @@
-vosk
-wave
-moviepy
+vosk==0.3.45
+moviepy>=1.0.3
